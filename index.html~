@@ -1,0 +1,30 @@
+<!DOCTYPE HTML>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+<meta name="description" content="Technology Consulting for Startups" />
+<meta name="keywords" content="consulting, consultancy, startup, startups, technology, tech" />
+
+<title>Technology Consulting for Startups</title>
+
+<meta property="og:title" content="innotech.io - Technology Consulting for Startups" />
+<meta property="og:type" content="company" />
+<meta property="og:site_name" content="innotech.io - Technology Consulting for Startups" />
+<meta property="og:description" content="We help early stage startups with all things technolgoy related; from roadmaps, API design, tech stack architecture, technical interviews and more.
+
+Consider us your temporary CTO." />
+<meta property="og:url" content="www.innotech.io" />
+<meta property="og:image" content="" />
+
+</head>
+
+<body>
+
+<!-- Begin LaunchRock Widget -->
+<div id="lr-widget" rel="43OMTSW7"></div>
+<script type="text/javascript" src="//ignition.launchrock.com/ignition-current.min.js"></script>
+<!-- End LaunchRock Widget -->
+
+</body>
+</html>
